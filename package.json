@@ -2,10 +2,13 @@
   "name": "uploader",
   "private": true,
   "dependencies": {
+    "@excid3/uppy-activestorage-upload": "https://github.com/excid3/uppy-activestorage-upload.git",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
+    "@uppy/core": "^1.7.1",
+    "@uppy/dashboard": "^1.5.2",
     "bootstrap": "^4.4.1",
     "data-confirm-modal": "^1.6.2",
     "expose-loader": "^0.7.5",
